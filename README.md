@@ -14,9 +14,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/himanshushankhdhar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshushankhdhar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/noob_coder_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noob_coder_me" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/himanshucse-19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="himanshucse_19" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/himanshucse_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="himanshucse_19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shankhdhar2k19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shankhdhar2k19" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@himanshu2863" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:HackerEarth_logo.png" alt="@himanshu2863" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@himanshu2863" target="blank"><img align="center" src="https://aws.amazon.com/blogs/startups/hackerearth-scales-up-continuous-integration-for-future-needs-with-aws-codebuild-and-amazon-s3/" alt="@himanshu2863" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshucse-19&show_icons=true&locale=en&layout=compact" alt="himanshucse-19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshucsde-19&show_icons=true&locale=en" alt="himanshucse-19" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshucse-19&show_icons=true&locale=en" alt="himanshucse-19" /></p>
