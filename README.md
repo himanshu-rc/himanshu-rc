@@ -2,7 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=himanshu-rc)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshucse-19&label=Profile%20views&color=0e75b6&style=flat" alt="himanshucse-19" /> </p>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/media/4b4034f2033e129267dbb1dcc9a73ae1.gif"/>
 
 - 📫 How to reach me **himanshushankhdhar.work@gmail.com**
