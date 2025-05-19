@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Shankhdar</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Shankhdhar</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=himanshu-rc)](https://git.io/streak-stats)
 
